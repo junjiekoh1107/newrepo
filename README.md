@@ -4,7 +4,7 @@ Hello World!!!
 
 Starting out my first repo!
 
-Random mini python projects for starters
+Random mini python projects for starters (You may use Visual Studio Code to run them!)
 1. alcohol.py - simple input program to give different responses
                 parameters are age >=18 and >=$5 pocket money
 
